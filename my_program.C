@@ -2,7 +2,7 @@
 
 int add(int, int);
 int sub(int, int);
-
+int mul(int, int);
 main()
 {
 	int a=5, b=3, y;
@@ -26,6 +26,13 @@ int sub(int c, int d)
 {
 	int sum;
 	sum = c - d;
+	return sum;
+	printf("SUM = %d\n", sum);
+}
+int mul(int c, int d)
+{
+	int sum;
+	sum = c * d;
 	return sum;
 	printf("SUM = %d\n", sum);
 }
