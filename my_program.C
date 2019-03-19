@@ -3,6 +3,7 @@
 int add(int, int);
 int sub(int, int);
 int mul(int, int);
+int div(int, int):
 main()
 {
 	int a=5, b=3, y;
@@ -37,3 +38,11 @@ int mul(int c, int d)
 	printf("SUM = %d\n", sum);
 }
 
+int div(int c, int d)
+{
+	int sum;
+	sum = c/d;
+	return sum;
+	printf("SUM = %d\n", sum);
+
+}
