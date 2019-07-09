@@ -1,0 +1,9 @@
+C++Programming            Mon         8.0      120     315
+C++Programming            Wed         5.0      120     315
+ComputerNetwork            Mon         3.0      120     315
+ComputerNetwork            Thu         3.0      120     315
+DigitalCom            Tue         2.5      90     328
+DigitalCom            Thu         1.0      90     322
+WebProgramming               Tue         6.0      240     319
+InformationCom                 Wed         1.0      180     322
+EmbeddedSys              Wed         8.0      180     319  
